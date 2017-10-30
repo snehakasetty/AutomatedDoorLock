@@ -116,6 +116,7 @@ if __name__ == '__main__':
 ## Connect terminals for motor
 1. Connect the terminals of the rapsberry pi to servo
    Not able to write this so like below picture
+   ![Image of RPi](IMG_2405.JPG)
 
 ## Run the program
 1. `python door.py`
